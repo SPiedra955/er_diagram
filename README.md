@@ -20,7 +20,7 @@ This time we have to create a entity relationship diagram which contains the fol
 
 The image below represents the relationships between entities,entities sets and their attributes:
 
-![image](https://github.com/SPiedra955/er_diagram/assets/114516225/5957ee18-3c47-4227-ad88-3cb78fa52f18)
+![image](https://github.com/SPiedra955/er_diagram/assets/114516225/29eedd3c-8047-4e4a-a15c-35b232415e8c)
 
 # Explanation
 
