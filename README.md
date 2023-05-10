@@ -25,7 +25,7 @@ The image below represents the relationships between entities,entities sets and 
 # Explanation
 
 The diagram starts from the top down and works as follows
-- ````Hospital```` is an entity that has attributes like name which can be a composite attribute like __address__ which contains composite attributes __like country, state, city and street address__. The primary key is ``id_hospital`` which is underlined like all the primary keys we will find, its relationship is __one-to_many__ a __Hospital__ has several surgeons and the surgeons work for a __Hospital__.
+- ````Hospital```` is an entity that has attributes like name which can be a composite attribute like __address__ which contains composite attributes __like country, state, city and street address__. The primary key is ``id_hospital`` which is underlined like all the primary keys we will find, its relationship is __one-to-many__ a __Hospital__ has several surgeons and the surgeons work for a __Hospital__.
 - On the right side in red is the __generalization-specialization__ in this case it is a __total-disjoint__ because the entity is public or private there are no other alternatives.
 - ````Surgeons```` is a weak entity that depends on __Hospital__, it is a __many-to-one__ relationship because several surgeons can have the same speciality and normally a surgeon is usually specialised in a certain type of surgery and works in this or related positions, e.g. a surgeon specialised in heart surgery.
 - ````Speciality```` is a complementary entity to ````Surgeons````. The primary key has roles depending on the speciality we need a __prerequisite__.e.g. A surgeon needs a university degree.
