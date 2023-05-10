@@ -10,7 +10,7 @@ This time we have to create a entity relationship diagram which contains the fol
 - Attributes, Primary Key
 - Roles in recursive relationships.
 - (optional) Ternary relationships
-- optional) Complex attributes. Composite attributes. Multivalued attributes. Derived attributes.
+- (optional) Complex attributes. Composite attributes. Multivalued attributes. Derived attributes.
 - All possible cardinalities: one-to-one, one-to-many, many-to-many.
 - Total and partial participation.
 - Weak entities.
