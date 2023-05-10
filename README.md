@@ -1,4 +1,4 @@
-# Relational diagram
+# Entity relationship
 ## Table of contents
  * [**Introduction**](#introduction)
  * [**Diagram**](#diagram)
